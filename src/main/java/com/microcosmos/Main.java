@@ -5,6 +5,7 @@
 package com.microcosmos;
 
 // IMPORTS
+import com.screens.Talla;
 import com.screens.Login;
 import com.screens.Menú;
 import com.screens.TipoDocumento;
@@ -37,6 +38,9 @@ public class Main
         
         //TipoPago TP = new TipoPago();
         //TP.setVisible(true);            
+        
+        //Talla Ta = new Talla();
+        //Ta.setVisible(true);
                 
     }    
 }

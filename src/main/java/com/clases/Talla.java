@@ -49,6 +49,10 @@ public class Talla implements Serializable {
     public void setDescripcionTalla(String descripcionTalla) {
         this.descripcionTalla = descripcionTalla;
     }
+
+    public void setVisible(boolean b) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
     
     
     
